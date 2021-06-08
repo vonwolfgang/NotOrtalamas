@@ -11,7 +11,7 @@ Java ile not ortalaması hesaplayan programın kodları
 Projeyi cloneladıktan sonra Visual studio Code programında açınız
 
 Linux için:
-1. `cd NotOrtalaması`
+1. `cd NotOrtalamas`
 2. `code .`
 
 ## Contributing
